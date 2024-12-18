@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolas SUNG</h1>
+<h1 align="center">Hi 👋 I'm Nicolas SUNG</h1>
 <h3 align="center">A developer full-stack from France</h3>
 
 - 📫 How to reach me **nicolassung01@gmail.com**
