@@ -15,7 +15,7 @@ Je suis passionné par le **développement web**, la **création d'expériences 
 - React.js, Next.js
 - Figma, Photoshop, Illustrator
 
-### 🖥️ Backend :
+### 🖥️ Bac📝kend :
 - Node.js, Express.js
 - PHP (Symfony, Laravel)
 - MySQL, PostgreSQL, MongoDB
@@ -30,7 +30,8 @@ Je suis passionné par le **développement web**, la **création d'expériences 
 
 📧 **Email** : [nicolassung01@gmail.com](mailto:nicolassung01@gmail.com)  
 🔗 **GitHub** : [github.com/Nico-Sung](https://github.com/Nico-Sung)  
-💼 **LinkedIn** : [linkedin.com/in/nicolas-sung](#) *(Ajoutez votre profil LinkedIn ici)*  
+💼 **LinkedIn** : [https://www.linkedin.com/in/nicolas-sung-898031273/](#) 
+📝 **Portfolio** : [sungnicolas.fr](#)
 
 ---
 
