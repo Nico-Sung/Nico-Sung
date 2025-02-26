@@ -29,9 +29,8 @@ Je suis passionné par le **développement web**, la **création d'expériences 
 ## 📫 Me Contacter
 
 📧 **Email** : [nicolassung01@gmail.com](mailto:nicolassung01@gmail.com)  
-🔗 **GitHub** : [github.com/Nico-Sung](#)  
-💼 **LinkedIn** : [https://www.linkedin.com/in/nicolas-sung-898031273/](#)  
-📝 **Portfolio** : [sungnicolas.fr](#)
+💼 **LinkedIn** : [https://www.linkedin.com/in/nicolas-sung-898031273/](https://www.linkedin.com/in/nicolas-sung-898031273/)  
+📝 **Portfolio** : [sungnicolas.fr](sungnicolas.fr)
 
 ---
 
