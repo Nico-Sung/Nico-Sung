@@ -17,8 +17,8 @@ Je suis passionné par le **développement web**, la **création d'expériences 
 
 ### 🖥️ Backend :
 - Node.js, Express.js
-- PHP (Symfony, Laravel)
-- MySQL, PostgreSQL, MongoDB
+- PHP (Symfony)
+- MySQL
 - Prisma ORM
 
 ### 🎮 3D :
