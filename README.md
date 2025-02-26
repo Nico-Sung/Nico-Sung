@@ -1,6 +1,6 @@
 # 👨‍💻 Nicolas SUNG
 
-## 🚀 Développeur Full-Stack | Passionné par le Web & l'Innovation
+## 🚀 Développeur Full-Stack 
 
 Salut ! 👋 Je suis **Nicolas SUNG**, un développeur **full-stack** basé en **France**. 
 Je suis passionné par le **développement web**, la **création d'expériences interactives** et l'exploration de nouvelles technologies.
